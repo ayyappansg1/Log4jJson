@@ -1,0 +1,19 @@
+ERROR	2022-04-13 19:10:21,650	0	ProperityFilConfig	[main]	This is error message
+FATAL	2022-04-13 19:10:21,661	11	ProperityFilConfig	[main]	This is fatal message
+ERROR	2022-04-13 19:11:06,893	1	ProperityFilConfig	[main]	This is error message
+FATAL	2022-04-13 19:11:06,896	4	ProperityFilConfig	[main]	This is fatal message
+DEBUG	2022-04-13 19:11:41,600	0	ProperityFilConfig	[main]	this is sangar
+INFO	2022-04-13 19:11:41,603	3	ProperityFilConfig	[main]	This is Info message
+WARN	2022-04-13 19:11:41,604	4	ProperityFilConfig	[main]	This is warning message
+ERROR	2022-04-13 19:11:41,604	4	ProperityFilConfig	[main]	This is error message
+FATAL	2022-04-13 19:11:41,605	5	ProperityFilConfig	[main]	This is fatal message
+DEBUG	2022-04-13 19:12:30,382	1	ProperityFilConfig	[main]	this is sangar
+INFO	2022-04-13 19:12:30,386	5	ProperityFilConfig	[main]	This is Info message
+WARN	2022-04-13 19:12:30,386	5	ProperityFilConfig	[main]	This is warning message
+ERROR	2022-04-13 19:12:30,386	5	ProperityFilConfig	[main]	This is error message
+FATAL	2022-04-13 19:12:30,387	6	ProperityFilConfig	[main]	This is fatal message
+DEBUG	2022-04-13 19:12:46,805	0	ProperityFilConfig	[main]	this is sangar
+INFO	2022-04-13 19:12:46,808	3	ProperityFilConfig	[main]	This is Info message
+WARN	2022-04-13 19:12:46,809	4	ProperityFilConfig	[main]	This is warning message
+ERROR	2022-04-13 19:12:46,809	4	ProperityFilConfig	[main]	This is error message
+FATAL	2022-04-13 19:12:46,809	4	ProperityFilConfig	[main]	This is fatal message
